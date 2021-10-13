@@ -9,3 +9,7 @@
 -   Games
 -   Smartwatch Apps
 -   Mobile Apps
+
+*DOM
+-   Mô hình các đối tượng tài nguyên (Document Object Model)
+-   Dùng để truy xuất và thao tác trên các tài liệu có cấu trúc dạng HTML hay XML bằng các ngôn ngữ lập trình thông dụng như JS, PHP
