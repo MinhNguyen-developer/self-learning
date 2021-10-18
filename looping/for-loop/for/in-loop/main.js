@@ -10,6 +10,11 @@ for (var key in myInfo) {
 
 var languages = ["JS", "PHP", "Ruby"];
 
-for (var key in languages) {
+for (var key of languages) {
+  // => JS, PHP, Ruby
   console.log(key);
+}
+
+for (var key in languages) {
+  console.log(key); // => index of value
 }
